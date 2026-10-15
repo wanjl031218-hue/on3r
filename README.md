@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @on3r
-- 👀 I’m interested in math physics 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @wanjl031218-hue
+-Aerospace Engineering @ UNSW 
+-Master's in AI @ Monash 
+-Passionate about drones, PX4 development, and practical applications of AI agents.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me wanjl031218@gmail.com
 
-<!---
-on3r/on3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Let a = [1,2,3,4]
